@@ -1,0 +1,1 @@
+Gra w pong , szersze ppodejœcie bardziej obiektowe, gra zaawansowana
